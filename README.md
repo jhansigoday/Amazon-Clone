@@ -1,6 +1,6 @@
 Amazon Clone  
 
-A basic front-end clone of Amazon using **HTML, CSS, and JavaScript**.  
+A basic front-end clone of Amazon using HTML, CSS.
 
  Features  
  Responsive design  
